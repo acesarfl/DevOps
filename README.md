@@ -5,7 +5,7 @@ Desmistificando DevOps
 
 </h1>
 
-[![Build Status](https://app.travis-ci.com/acesarfl/DevOpsLab-Pipeline.svg?branch=master)](https://app.travis-ci.com/acesarfl/DevOpsLab-Pipeline)
+[![Build Status](https://app.travis-ci.com/cesar1510/DevOps.svg?branch=main)](https://app.travis-ci.com/cesar1510/DevOps)
 
 <p  align="center">
     <a  href="#-o-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
